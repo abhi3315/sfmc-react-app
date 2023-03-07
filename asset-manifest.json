@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sfmc-react-test/static/css/main.826c65be.css",
+    "main.js": "/sfmc-react-test/static/js/main.f1968d00.js",
+    "static/js/787.223550ad.chunk.js": "/sfmc-react-test/static/js/787.223550ad.chunk.js",
+    "index.html": "/sfmc-react-test/index.html",
+    "main.826c65be.css.map": "/sfmc-react-test/static/css/main.826c65be.css.map",
+    "main.f1968d00.js.map": "/sfmc-react-test/static/js/main.f1968d00.js.map",
+    "787.223550ad.chunk.js.map": "/sfmc-react-test/static/js/787.223550ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826c65be.css",
+    "static/js/main.f1968d00.js"
+  ]
+}
